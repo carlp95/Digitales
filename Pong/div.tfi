@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+div instance_name (
+    .clk(clk), 
+    .clr(clr), 
+    .clk25(clk25)
+    );
+
+

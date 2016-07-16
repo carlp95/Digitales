@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+pong instance_name (
+    .clk(clk), 
+    .clr(clr), 
+    .hsync(hsync), 
+    .vsync(vsync), 
+    .hc(hc), 
+    .vc(vc), 
+    .vidon(vidon)
+    );
+
+

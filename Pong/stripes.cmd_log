@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Pong -o "C:/Documents and Settings/Administrador/Escritorio/Pong/stripes.tfi" -lib work "C:/Documents and Settings/Administrador/Escritorio/Pong//stripes.v" -module stripes -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

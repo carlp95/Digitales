@@ -1,0 +1,4 @@
+verilog work "vga.v"
+verilog work "stripes.v"
+verilog work "div.v"
+verilog work "principal.v"

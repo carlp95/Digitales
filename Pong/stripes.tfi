@@ -1,0 +1,14 @@
+
+
+
+// Instantiate the module
+stripes instance_name (
+    .vidon(vidon), 
+    .hc(hc), 
+    .vc(vc), 
+    .red(red), 
+    .green(green), 
+    .blue(blue)
+    );
+
+
